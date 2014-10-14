@@ -8,3 +8,5 @@ This is a test repo
 * This is the first item in the list
 * This is the second
 * And this is the third 
+
+An example of code is `commit`
